@@ -26,21 +26,21 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" class="d-block w-100 img-fluid"  alt="...">
+            <img src="robert-bye-jeF-vyxytb4-unsplash.jpg" class="d-block w-100 img-fluid"  alt="...">
             <div class="carousel-caption d-none d-md-block external-img">
               <h5>Money Bank</h5>
               <p>A Safe place for your money.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://images.unsplash.com/photo-1601597111158-2fceff292cdc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" class="d-block w-100 img-fluid" alt="...">
+            <img src="premium_photo-1661405647490-a2ccaaa44051.avif" class="d-block w-100 img-fluid" alt="...">
             <div class="carousel-caption d-none d-md-block external-img">
               <h5>Transfers Money flawlessly</h5>
               <p>Transfering Money is just easy as Dialing a Phone.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" class="d-block w-100 img-fluid" alt="...">
+            <img src="nick-pampoukidis-t-UV1rZqPuY-unsplash.jpg" class="d-block w-100 img-fluid" alt="...">
             <div class="carousel-caption d-none d-md-block external-img">
               <h5>Banking is Even Easier</h5>
               <p>Visit Our New official Website.</p>
@@ -79,7 +79,7 @@
               </div>
 
               <div class="col">
-              <img src="https://images.unsplash.com/photo-1616514197671-15d99ce7a6f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" class="rounded img-fluid float-right" alt="...">
+              <img src="premium_photo-1676782583940-633240617c78.avif" class="rounded img-fluid float-right" alt="...">
               </div>
             </div>
             </section>
@@ -100,7 +100,7 @@
             Welcome to [Money Bank], where financial excellence meets personalized service. Established with a vision to empower individuals, businesses, and communities, we take pride in being a trusted partner on your financial journey.
 
 Our Mission
-At [Money Bank], our mission is to provide innovative financial solutions that drive prosperity and create lasting value for our customers. We are committed to delivering top-notch banking services with a focus on integrity, transparency, and customer satisfaction.
+At [MoneyBank], our mission is to provide innovative financial solutions that drive prosperity and create lasting value for our customers. We are committed to delivering top-notch banking services with a focus on integrity, transparency, and customer satisfaction.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
